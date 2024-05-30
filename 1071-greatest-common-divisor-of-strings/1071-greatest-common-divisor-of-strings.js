@@ -9,7 +9,7 @@ var gcdOfStrings = function(str1, str2) {
   //example, if "ABCABC" + "ABC" is false so we can continue to process
   
   if(str1 + str2 != str2 +str1){
-    return "";
+    return ""
   }
   
   //calculate the length between for each string
@@ -17,7 +17,6 @@ var gcdOfStrings = function(str1, str2) {
   //"ABC" = 3
   let i = str1.length;
   let j = str2.length;
-  
   
   //implementation of euclidean algorithm. takes two arguments
   let gcd = function(x, y){
