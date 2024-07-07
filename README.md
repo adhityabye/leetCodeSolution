@@ -9,11 +9,13 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | ------- |
 | [0011-container-with-most-water](https://github.com/adhityabye/leetCodeSolution/tree/master/0011-container-with-most-water) |
 | [0643-maximum-average-subarray-i](https://github.com/adhityabye/leetCodeSolution/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/adhityabye/leetCodeSolution/tree/master/1046-max-consecutive-ones-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adhityabye/leetCodeSolution/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/adhityabye/leetCodeSolution/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/adhityabye/leetCodeSolution/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adhityabye/leetCodeSolution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
 |  |
@@ -36,4 +38,12 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adhityabye/leetCodeSolution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/adhityabye/leetCodeSolution/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/adhityabye/leetCodeSolution/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
