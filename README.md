@@ -10,6 +10,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | [0011-container-with-most-water](https://github.com/adhityabye/leetCodeSolution/tree/master/0011-container-with-most-water) |
 | [0643-maximum-average-subarray-i](https://github.com/adhityabye/leetCodeSolution/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/adhityabye/leetCodeSolution/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/adhityabye/leetCodeSolution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/adhityabye/leetCodeSolution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adhityabye/leetCodeSolution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/adhityabye/leetCodeSolution/tree/master/1833-find-the-highest-altitude) |
@@ -31,6 +32,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/adhityabye/leetCodeSolution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/adhityabye/leetCodeSolution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adhityabye/leetCodeSolution/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
