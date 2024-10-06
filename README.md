@@ -7,6 +7,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adhityabye/leetCodeSolution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adhityabye/leetCodeSolution/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0136-single-number) |
 | [0643-maximum-average-subarray-i](https://github.com/adhityabye/leetCodeSolution/tree/master/0643-maximum-average-subarray-i) |
@@ -36,6 +37,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adhityabye/leetCodeSolution/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/adhityabye/leetCodeSolution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/adhityabye/leetCodeSolution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adhityabye/leetCodeSolution/tree/master/1798-max-number-of-k-sum-pairs) |
