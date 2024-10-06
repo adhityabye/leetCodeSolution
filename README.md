@@ -9,6 +9,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | ------- |
 | [0001-two-sum](https://github.com/adhityabye/leetCodeSolution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adhityabye/leetCodeSolution/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/adhityabye/leetCodeSolution/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0136-single-number) |
 | [0643-maximum-average-subarray-i](https://github.com/adhityabye/leetCodeSolution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/adhityabye/leetCodeSolution/tree/master/0724-find-pivot-index) |
@@ -52,6 +53,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/adhityabye/leetCodeSolution/tree/master/0035-search-insert-position) |
 | [1046-max-consecutive-ones-iii](https://github.com/adhityabye/leetCodeSolution/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
