@@ -11,6 +11,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | [0011-container-with-most-water](https://github.com/adhityabye/leetCodeSolution/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/adhityabye/leetCodeSolution/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/adhityabye/leetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/adhityabye/leetCodeSolution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/adhityabye/leetCodeSolution/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/adhityabye/leetCodeSolution/tree/master/1046-max-consecutive-ones-iii) |
@@ -39,12 +40,14 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adhityabye/leetCodeSolution/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/adhityabye/leetCodeSolution/tree/master/0217-contains-duplicate) |
 | [1319-unique-number-of-occurrences](https://github.com/adhityabye/leetCodeSolution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/adhityabye/leetCodeSolution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adhityabye/leetCodeSolution/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/adhityabye/leetCodeSolution/tree/master/0217-contains-duplicate) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adhityabye/leetCodeSolution/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
