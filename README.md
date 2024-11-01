@@ -42,6 +42,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | ------- |
 | [0001-two-sum](https://github.com/adhityabye/leetCodeSolution/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/adhityabye/leetCodeSolution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/adhityabye/leetCodeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/adhityabye/leetCodeSolution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/adhityabye/leetCodeSolution/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -50,11 +51,13 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/adhityabye/leetCodeSolution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/adhityabye/leetCodeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adhityabye/leetCodeSolution/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/adhityabye/leetCodeSolution/tree/master/0242-valid-anagram) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adhityabye/leetCodeSolution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
