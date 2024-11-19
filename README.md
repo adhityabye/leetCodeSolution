@@ -14,6 +14,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | [0136-single-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/adhityabye/leetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/adhityabye/leetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/adhityabye/leetCodeSolution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/adhityabye/leetCodeSolution/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/adhityabye/leetCodeSolution/tree/master/1046-max-consecutive-ones-iii) |
@@ -34,6 +35,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | ------- |
 | [0011-container-with-most-water](https://github.com/adhityabye/leetCodeSolution/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/adhityabye/leetCodeSolution/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/adhityabye/leetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adhityabye/leetCodeSolution/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
@@ -46,6 +48,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | [0217-contains-duplicate](https://github.com/adhityabye/leetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adhityabye/leetCodeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/adhityabye/leetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [1319-unique-number-of-occurrences](https://github.com/adhityabye/leetCodeSolution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/adhityabye/leetCodeSolution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adhityabye/leetCodeSolution/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -56,6 +59,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | [0217-contains-duplicate](https://github.com/adhityabye/leetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adhityabye/leetCodeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/adhityabye/leetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adhityabye/leetCodeSolution/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -67,6 +71,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | ------- |
 | [0035-search-insert-position](https://github.com/adhityabye/leetCodeSolution/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/adhityabye/leetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/adhityabye/leetCodeSolution/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
