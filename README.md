@@ -18,6 +18,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | [0500-keyboard-row](https://github.com/adhityabye/leetCodeSolution/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/adhityabye/leetCodeSolution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/adhityabye/leetCodeSolution/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/adhityabye/leetCodeSolution/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/adhityabye/leetCodeSolution/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/adhityabye/leetCodeSolution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/adhityabye/leetCodeSolution/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -119,4 +120,12 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/adhityabye/leetCodeSolution/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/adhityabye/leetCodeSolution/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
