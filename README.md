@@ -70,6 +70,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | [0242-valid-anagram](https://github.com/adhityabye/leetCodeSolution/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/adhityabye/leetCodeSolution/tree/master/0500-keyboard-row) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adhityabye/leetCodeSolution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2470-removing-stars-from-a-string](https://github.com/adhityabye/leetCodeSolution/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,8 +125,10 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/adhityabye/leetCodeSolution/tree/master/0735-asteroid-collision) |
+| [2470-removing-stars-from-a-string](https://github.com/adhityabye/leetCodeSolution/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/adhityabye/leetCodeSolution/tree/master/0735-asteroid-collision) |
+| [2470-removing-stars-from-a-string](https://github.com/adhityabye/leetCodeSolution/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
