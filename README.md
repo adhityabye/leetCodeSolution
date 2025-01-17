@@ -49,6 +49,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adhityabye/leetCodeSolution/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/adhityabye/leetCodeSolution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/adhityabye/leetCodeSolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adhityabye/leetCodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/adhityabye/leetCodeSolution/tree/master/0242-valid-anagram) |
@@ -70,6 +71,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/adhityabye/leetCodeSolution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adhityabye/leetCodeSolution/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/adhityabye/leetCodeSolution/tree/master/0500-keyboard-row) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adhityabye/leetCodeSolution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
