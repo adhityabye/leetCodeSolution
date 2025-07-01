@@ -128,6 +128,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/adhityabye/leetCodeSolution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0268-missing-number) |
 ## Stack
