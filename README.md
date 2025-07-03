@@ -104,6 +104,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/adhityabye/leetCodeSolution/tree/master/0206-reverse-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/adhityabye/leetCodeSolution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | ------- |
 | [0136-single-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0268-missing-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/adhityabye/leetCodeSolution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | [0069-sqrtx](https://github.com/adhityabye/leetCodeSolution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/adhityabye/leetCodeSolution/tree/master/0412-fizz-buzz) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/adhityabye/leetCodeSolution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -147,4 +150,5 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | [0412-fizz-buzz](https://github.com/adhityabye/leetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/adhityabye/leetCodeSolution/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/adhityabye/leetCodeSolution/tree/master/2470-removing-stars-from-a-string) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/adhityabye/leetCodeSolution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
