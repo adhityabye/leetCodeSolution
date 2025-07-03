@@ -78,6 +78,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | [0003-longest-substring-without-repeating-characters](https://github.com/adhityabye/leetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/adhityabye/leetCodeSolution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adhityabye/leetCodeSolution/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/adhityabye/leetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/adhityabye/leetCodeSolution/tree/master/0500-keyboard-row) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adhityabye/leetCodeSolution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2470-removing-stars-from-a-string](https://github.com/adhityabye/leetCodeSolution/tree/master/2470-removing-stars-from-a-string) |
@@ -134,6 +135,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | [0009-palindrome-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/adhityabye/leetCodeSolution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/adhityabye/leetCodeSolution/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -142,6 +144,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/adhityabye/leetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/adhityabye/leetCodeSolution/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/adhityabye/leetCodeSolution/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
