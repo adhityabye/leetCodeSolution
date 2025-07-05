@@ -99,10 +99,12 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/adhityabye/leetCodeSolution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/adhityabye/leetCodeSolution/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/adhityabye/leetCodeSolution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/adhityabye/leetCodeSolution/tree/master/0206-reverse-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/adhityabye/leetCodeSolution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
