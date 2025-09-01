@@ -59,6 +59,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | [0242-valid-anagram](https://github.com/adhityabye/leetCodeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adhityabye/leetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/adhityabye/leetCodeSolution/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/adhityabye/leetCodeSolution/tree/master/0500-keyboard-row) |
 | [1319-unique-number-of-occurrences](https://github.com/adhityabye/leetCodeSolution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/adhityabye/leetCodeSolution/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -71,6 +72,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | [0242-valid-anagram](https://github.com/adhityabye/leetCodeSolution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adhityabye/leetCodeSolution/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/adhityabye/leetCodeSolution/tree/master/0389-find-the-difference) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adhityabye/leetCodeSolution/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -78,6 +80,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | [0003-longest-substring-without-repeating-characters](https://github.com/adhityabye/leetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/adhityabye/leetCodeSolution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adhityabye/leetCodeSolution/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/adhityabye/leetCodeSolution/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/adhityabye/leetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/adhityabye/leetCodeSolution/tree/master/0500-keyboard-row) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adhityabye/leetCodeSolution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -132,6 +135,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | ------- |
 | [0136-single-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/adhityabye/leetCodeSolution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/adhityabye/leetCodeSolution/tree/master/0389-find-the-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/adhityabye/leetCodeSolution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
