@@ -27,6 +27,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adhityabye/leetCodeSolution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adhityabye/leetCodeSolution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/adhityabye/leetCodeSolution/tree/master/1833-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/adhityabye/leetCodeSolution/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | ------- |
 | [0412-fizz-buzz](https://github.com/adhityabye/leetCodeSolution/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/adhityabye/leetCodeSolution/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/adhityabye/leetCodeSolution/tree/master/1929-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/adhityabye/leetCodeSolution/tree/master/2470-removing-stars-from-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/adhityabye/leetCodeSolution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
