@@ -24,6 +24,7 @@ Berisikan solusi dari soal leetcode buat belajar. Kalo mau contribute langsung a
 | [1046-max-consecutive-ones-iii](https://github.com/adhityabye/leetCodeSolution/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/adhityabye/leetCodeSolution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/adhityabye/leetCodeSolution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1470-shuffle-the-array](https://github.com/adhityabye/leetCodeSolution/tree/master/1470-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adhityabye/leetCodeSolution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/adhityabye/leetCodeSolution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/adhityabye/leetCodeSolution/tree/master/1833-find-the-highest-altitude) |
