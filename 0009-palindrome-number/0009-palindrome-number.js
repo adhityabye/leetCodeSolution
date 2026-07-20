@@ -3,19 +3,13 @@
  * @return {boolean}
  */
 var isPalindrome = function(x) {
-  // negatif number dan akhiran 0
-  if (x < 0 || (x % 10 === 0 && x !== 0)) {
-    return false;
-  }
-  var reversed = 0;
-  while (x > reversed) {
-    //reversed digit terakhir dengan mengekstrak digit terakhir
-    reversed = reversed * 10 + (x % 10);
+    let str = String(x)
 
-    //hapus digit terakhir dari x
-    x = Math.floor(x / 10);
-  }
-  //handle number dengan odd number
-  // exclude dari komparasi
-  return x === reversed || x === Math.floor(reversed / 10);
+    if(str < 0) return false
+
+    for(let i = 0; i < str.length/2; i++){
+        if(str[i] == str[str.length -1 -i]) continue
+        else{ return false}
+    }
+    return true
 };
